@@ -1,0 +1,6 @@
+E:\Boxing\Boxing\bin\Debug\Boxing.exe.config
+E:\Boxing\Boxing\bin\Debug\Boxing.exe
+E:\Boxing\Boxing\bin\Debug\Boxing.pdb
+E:\Boxing\Boxing\obj\Debug\Boxing.csprojResolveAssemblyReference.cache
+E:\Boxing\Boxing\obj\Debug\Boxing.exe
+E:\Boxing\Boxing\obj\Debug\Boxing.pdb
